@@ -2,6 +2,8 @@
 
 This project is designed to assist in programming **ATtiny microcontrollers**, providing a simple USB-based programmer for flashing code using the Arduino IDE.
 
+![ATtiny85 installation orientation](https://github.com/2omethingBaD/Attiny85-programmer/blob/main/img/Untitled design (2).png?raw=true)
+
 ---
 
 ## 📋 Table of Contents
